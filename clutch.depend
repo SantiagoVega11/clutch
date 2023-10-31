@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1698622647 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionmostrarcabecera.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698622373 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionmostrarmenu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673969 source:c:\users\santi\onedrive\desktop\juego\clutch\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698706691 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionaccionesdado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698667639 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionases.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673281 source:c:\users\santi\onedrive\desktop\juego\clutch\funcioncambioturno.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698706699 source:c:\users\santi\onedrive\desktop\juego\clutch\funcioncargarnombres.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673832 source:c:\users\santi\onedrive\desktop\juego\clutch\funcioncreditos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698706697 source:c:\users\santi\onedrive\desktop\juego\clutch\funciondado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673703 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionestadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673367 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionganador.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698706698 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionmazo.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698666038 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionmezclar.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698667406 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionmostrarcartas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698673536 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
+1698667085 source:c:\users\santi\onedrive\desktop\juego\clutch\funcionrepartircartas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<clocale>
+	<conio.h>
+
